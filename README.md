@@ -62,6 +62,3 @@ Visualisations générées pendant l'analyse :
 - Entraînement et évaluation des modèles d'apprentissage automatique.
 - Sauvegarde des résultats pour assurer la reproductibilité.
 
-## Licence
-[Spécifiez ici la licence de votre projet, par exemple, MIT, Apache 2.0, etc.]
-
