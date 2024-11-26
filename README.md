@@ -59,6 +59,11 @@ Visualisations générées pendant l'analyse :
 ## Fonctionnalités Clés
 - Nettoyage et prétraitement des données automatisés.
 - Visualisations pour comprendre les caractéristiques des données.
-- Entraînement et évaluation des modèles d'apprentissage automatique.
+- Entraînment et évaluation des modèles d'apprentissage automatique.
 - Sauvegarde des résultats pour assurer la reproductibilité.
 
+## Perspectives d'Évolution
+- **Ajout d'une API REST** : Permettre d'interroger le modèle directement via des requêtes HTTP.
+- **Page Web** : Création d'une interface utilisateur simple pour visualiser les résultats et soumettre des prédictions.
+- **Amélioration de la Gestion des Outliers** : Explorer d'autres méthodes pour identifier et traiter les valeurs aberrantes.
+- **Réduction des Résidus** : Optimiser le modèle pour minimiser les écarts entre les prédictions et les valeurs réelles.
